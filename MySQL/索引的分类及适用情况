@@ -1,1 +1,106 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T05:20:50.090Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" version="17.0.0" etag="yawR4gqw6Hz_mOwit2e9" type="github"><diagram id="KWPbCypcjTW1PqGECoLw">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-03-10T05:48:05.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mwnjOtLd-x3uOoXMwzsv" version="17.0.0" type="github">
+  <diagram id="KWPbCypcjTW1PqGECoLw" name="Page-1">
+    <mxGraphModel dx="1438" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nLhW_sayXJ2vym_CfA3--27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nLhW_sayXJ2vym_CfA3--1" target="nLhW_sayXJ2vym_CfA3--20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="545" />
+              <mxPoint x="20" y="415" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nLhW_sayXJ2vym_CfA3--1" target="nLhW_sayXJ2vym_CfA3--23">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-10" y="545" />
+              <mxPoint x="-10" y="545" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="nLhW_sayXJ2vym_CfA3--1" target="nLhW_sayXJ2vym_CfA3--24">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="20" y="545" />
+              <mxPoint x="20" y="635" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--1" value="索引的分类" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="-100" y="522.5" width="70" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--2" value="普通索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--3" value="唯一索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="380" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--4" value="主键索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--5" value="全文索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="220" y="460" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--6" value="聚簇索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="510" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--7" value="非聚簇索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="220" y="555" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--8" value="单列索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="220" y="600" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--9" value="联合索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="220" y="650" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--12" value="选择没有任何限制的列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="340" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--13" value="和唯一约束类似&lt;br&gt;该列不允许出现重复值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="380" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--14" value="特殊的唯一索引&lt;br&gt;唯一却非空" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--15" value="只建在VARCHAR/CHAR/TEST系列类型上" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="460" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--16" value="数据存储与索引放在一块，找到索引就找到数据" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="510" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--17" value="数据存储与索引分开" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="555" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--18" value="选择单列做索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="600" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--19" value="选择多列做索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+          <mxGeometry x="290" y="650" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--20" value="功能逻辑" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="400" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="nLhW_sayXJ2vym_CfA3--20" target="nLhW_sayXJ2vym_CfA3--20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--23" value="物理实现方式" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="530" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--24" value="作用字段数" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="60" y="620" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--32" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="340" width="50" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--33" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="510" width="50" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nLhW_sayXJ2vym_CfA3--34" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="170" y="600" width="50" height="75" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
