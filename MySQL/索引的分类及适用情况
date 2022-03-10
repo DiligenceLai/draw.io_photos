@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-10T05:48:05.409Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="mwnjOtLd-x3uOoXMwzsv" version="17.0.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-10T08:28:58.937Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="otEWWhJMbFf9F68uvOxp" version="17.0.0" type="github">
   <diagram id="KWPbCypcjTW1PqGECoLw" name="Page-1">
     <mxGraphModel dx="1438" dy="547" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -55,7 +55,7 @@
         <mxCell id="nLhW_sayXJ2vym_CfA3--9" value="联合索引" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
           <mxGeometry x="220" y="650" width="70" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="nLhW_sayXJ2vym_CfA3--12" value="选择没有任何限制的列" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
+        <mxCell id="nLhW_sayXJ2vym_CfA3--12" value="不为该列附加任何约束" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
           <mxGeometry x="290" y="340" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nLhW_sayXJ2vym_CfA3--13" value="和唯一约束类似&lt;br&gt;该列不允许出现重复值" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f9f7ed;strokeColor=#CCCCCC;" vertex="1" parent="1">
